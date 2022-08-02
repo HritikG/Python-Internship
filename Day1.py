@@ -1,4 +1,7 @@
 #Code By : Hritik Garg <4921852>
+
+##To Find Square of a number.
+
 #Taking Input From User
 #Converting it into Int data type.
 #Storing in variables x,y.
