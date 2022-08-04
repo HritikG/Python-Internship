@@ -1,12 +1,6 @@
 #Code By : Hritik Garg <4921852>
-
 # Reversing a alphabetic string.
-# Ignoring Numeric And Alphanumeric String.
 
-#Method 0
-string = input("Enter the String : ")
-print ("Entered String : " + string)
-print(string.reverse())
 
 #Method 1
 def reverse(str):
